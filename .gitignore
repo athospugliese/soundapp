@@ -1,0 +1,15 @@
+# Modelos (baixados sob demanda na 1ª execução; grandes demais p/ GitHub)
+models/
+
+# Ambientes virtuais
+.venvs/
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Logs e temporários
+*.log
+*.tmp
